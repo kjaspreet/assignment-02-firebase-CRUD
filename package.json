@@ -1,0 +1,16 @@
+{
+  "name": "assign-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "write.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.6.0",
+    "get-stdin": "^5.0.1",
+    "prompt": "^1.0.0"
+  }
+}
